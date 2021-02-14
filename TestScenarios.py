@@ -1,3 +1,5 @@
+# test_one_element_array
+A = [9]
 # test_first_element_is_the_odd_number
 A = [9, 3, 9, 7, 9, 7, 9]
 # test_middle_element_is_the_odd_number
